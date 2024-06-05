@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Lattice FPGA standard feather wing")(type "KiCad")(uri "$(KIPRJMOD)/Lattice FPGA standard feather wing.pretty")(options "")(descr ""))
+)
